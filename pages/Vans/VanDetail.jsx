@@ -23,18 +23,18 @@ export default function VanDetail() {
         }
         loadVans()
     }, [id])
-    
+
     if (loading) {
         return <h1>Loading...</h1>
     }
-    
+
     if (error) {
         return <h1>There was an error: {error.message}</h1>
     }
 
     const search = location.state?.search || "";
     const type = location.state?.type || "all";
-    
+
     return (
         <div className="van-detail-container">
             <Link
@@ -42,7 +42,7 @@ export default function VanDetail() {
                 relative="path"
                 className="back-button"
             >&larr; <span>Back to {type} vans</span></Link>
-            
+
             {van && (
                 <div className="van-detail">
                     <img src={van.imageUrl} />
