@@ -1,23 +1,73 @@
-# co9c94314a45694f6736957f6
+# Vanlife
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+![product-list-scandiweb](https://user-images.githubusercontent.com/80893528/174781964-57467ea2-8c3b-46c9-aa13-9121f1d47927.gif)
 
-Quick start:
+Live on https://chipper-syrniki-b711fa.netlify.app/
 
-```
-$ npm install
-$ npm start
-````
+### Table of Contents:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- [Description](#description)
+- [How to use it](#how-to-use-it)
+- [Develpment](#how-to-use-it)
+- [Contributing](#contributing)
+- [Reference](#reference)
+- [License](#license)
+- [Contact](#contact)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Description
 
-Happy Coding!
+Vanlife is a project that allows you to check details about vans and rent. As host you can log in and visualise your gain.
+
+#### Technologies
+
+- HTML
+- Responsive CSS, media query
+- JavaScript
+- React
+- Libraries: React Router v 6
+- Firebase
+- Deployed on Netlify
+
+---
+
+## How to use it
+
+- Check on Vans the available vans: you can filter them out (simple, luxury, rugged) and select one for more info.
+- Login as host and check your van(s),the renting progress and reviews.
+
+---
+
+## Development
+
+Backend was run with Firebase and Netlify was used to deploy the project.
+
+---
+
+## Contributing
+
+Everyone is very welcome to contribute to this repository. Feel free to raise [issues](https://github.com/mrmatteorusso/vanlife/issues) or to [submit Pull Requests](https://github.com/mrmatteorusso/vanlife/pulls).
+
+---
+
+## References
+
+- Documentation
+  https://reactrouter.com/en/main
+  https://react.dev/learn
+  https://firebase.google.com/
+
+---
+
+## License
+
+Licensed under [MIT License](http://opensource.org/licenses/MIT).
+
+---
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-Matteo_Russo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrmatteorusso//)](https://www.linkedin.com/in/mrmatteorusso/) [![Gmail Badge](https://img.shields.io/badge/-mrmatteorusso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrmatteorusso@gmail.com)](mailto:mrmatteorusso@gmail.com)
+
+---
