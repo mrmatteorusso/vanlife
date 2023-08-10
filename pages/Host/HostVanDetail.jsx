@@ -14,6 +14,7 @@ export default function HostVanDetail() {
             try {
                 const data = await getVan(id)
                 setCurrentVan(data)
+                console.log(data)
             } catch (err) {
                 setError(err)
             } finally {
