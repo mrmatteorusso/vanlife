@@ -1,6 +1,6 @@
 # Vanlife
 
-![product-list-scandiweb](https://user-images.githubusercontent.com/80893528/174781964-57467ea2-8c3b-46c9-aa13-9121f1d47927.gif)
+![alt text](/assets/images/screenshot%20vanlife.png)
 
 Live on https://chipper-syrniki-b711fa.netlify.app/
 
